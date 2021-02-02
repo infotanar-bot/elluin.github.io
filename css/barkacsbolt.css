@@ -3,3 +3,14 @@ body {
     background-size: cover;
 }
 
+.tartalmacska{
+    background-color: rgba(168, 18, 18, 0.5);
+    color: seashell;
+
+}
+.pcske{
+    color: antiquewhite;
+}
+.pcske2{
+    color:rgba(235, 226, 226, 0.678)
+}
