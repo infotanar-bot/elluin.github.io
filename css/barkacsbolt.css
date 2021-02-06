@@ -1,6 +1,7 @@
 body {
     background-image: url(../images/barkacsaruhaz-min.jpg);
     background-size: cover;
+    
 }
 
 .tartalmacska{
@@ -15,9 +16,15 @@ body {
     color:rgba(235, 226, 226, 0.678)
 }
 
+h1, h2{
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 600;
+}
+
 .h2bemut{
     text-align: right;
     padding-right: 15%;
+    
 }
 .h2bemut-padding{
     padding-left: 10%;
