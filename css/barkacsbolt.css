@@ -1,31 +1,55 @@
 body {
     background-image: url(../images/barkacsaruhaz-min.jpg);
     background-size: cover;
-    
 }
 
-.tartalmacska{
+.tartalmacska {
     background-color: rgba(116, 104, 86, 0.5);
     color: seashell;
-
+    margin: auto;
 }
-.pcske{
+
+.pcske {
     color: antiquewhite;
 }
-.pcske2{
-    color:rgba(235, 226, 226, 0.678)
+
+.pcske2 {
+    color: rgba(235, 226, 226, 0.678)
 }
 
-h1, h2{
+h1,
+h2 {
     font-family: 'Big Shoulders Display', cursive;
     font-weight: 600;
 }
 
-.h2bemut{
+.h2bemut {
     text-align: right;
     padding-right: 15%;
-    
 }
-.h2bemut-padding{
+
+.h2bemut-padding {
     padding-left: 10%;
+}
+
+
+/* blog formázás*/
+
+.cikkkkkkk {
+    margin: 10px;
+}
+
+.h1blog {
+    padding: 20px 0px 10px 20px;
+}
+
+.gomb {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.gomb:hover {
+    background-color: #4CAF50;
+    color: white;
 }
